@@ -27,4 +27,8 @@ p.normal {
   .visible {
     visibility: visible;
   }
+  .invisible {
+    visibility: hidden;
+  }
+  
   
