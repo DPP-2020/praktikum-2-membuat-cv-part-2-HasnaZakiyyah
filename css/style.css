@@ -24,3 +24,7 @@ p.normal {
   h1 {
     color:#e6e6e6;
   }
+  .visible {
+    visibility: visible;
+  }
+  
