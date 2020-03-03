@@ -22,7 +22,7 @@ p.normal {
   }
 
   h1 {
-    color:#e6e6e6;
+    color:#fff;
   }
   .visible {
     visibility: visible;
@@ -32,5 +32,15 @@ p.normal {
   }
   
   .card {
-  padding-top: 100px;
+  padding-top: 20px;
+  }
+
+  .img-thumbnail{
+     height: 100px;
+     width: 100px;
+     border-radius: 1em;
+  }
+
+  .coba{
+    padding-top: 30px;
   }
