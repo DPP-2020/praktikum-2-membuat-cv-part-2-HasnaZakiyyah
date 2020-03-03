@@ -31,4 +31,6 @@ p.normal {
     visibility: hidden;
   }
   
-  
+  .card {
+  padding-top: 100px;
+  }
